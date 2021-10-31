@@ -1,6 +1,7 @@
 package validation;
 
 import java.util.function.Predicate;
+
 interface ValidateUserDetails{ 
 	 
     public static boolean validateFirstName(String fname) {
